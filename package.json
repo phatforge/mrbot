@@ -21,9 +21,9 @@
     "url": "https://github.com/github/hubot.git"
   },
   "dependencies": {
-    "hubot": ">= 2.7.1 < 3.0.0",
+    "hubot": "github/hubot",
     "hubot-scripts": ">= 2.5.7 < 3.0.0",
-    "hubot-hipchat": "~2.6.4"
+    "hubot-hipchat": "~2.5.1-5"
   },
   "engines": {
     "node": ">= 0.8.x",
