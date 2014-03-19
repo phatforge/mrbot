@@ -23,7 +23,8 @@
   "dependencies": {
     "hubot": "github/hubot",
     "hubot-scripts": ">= 2.5.7 < 3.0.0",
-    "hubot-hipchat": "~2.5.1-5"
+    "hubot-hipchat": "hipchat/hubot-hipchat",
+    "hubot-deploy": "atmos/hubot-deploy"
   },
   "engines": {
     "node": ">= 0.8.x",
