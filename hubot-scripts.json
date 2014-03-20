@@ -1,1 +1,1 @@
-["redis-brain.coffee", "shipit.coffee", "ping.coffee", "storage.coffee", "events.coffee"]
+["redis-brain.coffee", "shipit.coffee"]
