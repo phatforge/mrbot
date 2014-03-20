@@ -3,7 +3,6 @@
     "provider": "heroku",
     "repository": "jasherai/mediarush",
     "environments": ["production"],
-
     "heroku_name": "mediarush"
   }
 }
