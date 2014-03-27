@@ -1,4 +1,10 @@
 {
+  "me": {
+    "provider": "heroku",
+    "repository": "phatforge/mrbot",
+    "environments": ["production"],
+    "heroku_name": "mrbot"
+  },
   "mediarush": {
     "provider": "heroku",
     "repository": "jasherai/mediarush",
